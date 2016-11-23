@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "bg_jpg,egret_icon_png,description_json,ACCEPTABLE_png,CANSUBMITTED_png,DURING_png,NPC01_png,NPC02_png,walk01_png,walk02_png,UnACCEPTABLE_png",
+			"keys": "bg_jpg,egret_icon_png,description_json,ACCEPTABLE_png,CANSUBMITTED_png,DURING_png,NPC01_png,NPC02_png,walk02_png,NPC022_png,walk01_png,UnACCEPTABLE_png",
 			"name": "preload"
 		}
 	],
@@ -47,14 +47,19 @@
 			"url": "assets/NPC02.png"
 		},
 		{
-			"name": "walk01_png",
-			"type": "image",
-			"url": "assets/walk01.png"
-		},
-		{
 			"name": "walk02_png",
 			"type": "image",
 			"url": "assets/walk02.png"
+		},
+		{
+			"name": "NPC022_png",
+			"type": "image",
+			"url": "assets/NPC02.png"
+		},
+		{
+			"name": "walk01_png",
+			"type": "image",
+			"url": "assets/walk01.png"
 		},
 		{
 			"name": "UnACCEPTABLE_png",
